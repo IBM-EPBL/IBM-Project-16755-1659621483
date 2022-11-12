@@ -1,0 +1,49 @@
+.m-c{
+    background-color:beige;
+    margin:3%;
+}
+.courses1{
+    display:flex;
+}
+.ad4 {
+    background: rgb(30,20,20);
+    display: flex;
+    color: white;
+    padding: 1%;
+}
+
+    .ad4 div {
+        box-sizing: border-box;
+        border-width: 2px;
+        border-color: white;
+        padding: 6.4%;
+    }
+    .tab{
+        padding:5%;
+    }
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    #customers td, #customers th {
+        border: 1px solid #ddd;
+        padding: 20px;
+    }
+
+    #customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    #customers tr:hover {
+        background-color: #ddd;
+    }
+
+    #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: rgb(30,20,20);
+        color: white;
+    }

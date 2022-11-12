@@ -1,0 +1,66 @@
+.prep {
+    background-color: white;
+}
+.pg1{
+    display:flex;
+    justify-content:space-evenly;
+}
+.pg1 img{
+    padding:2%; 
+}
+    .pg1 .pg21 {
+        font-size: 50px;
+        padding: 3%;
+        
+    }
+    .pg1 .pg22 {
+        font-size: 25px;
+        padding: 2% 0% 2% 3%;
+        
+    }
+.pg2 .pg12,.pg22{
+    font-family:'Times New Roman', Times, serif;
+}
+.pg3{
+    display:flex;
+
+}
+.pg4{
+    font-size:50px;
+    font-family:'Times New Roman', Times, serif;
+    padding:2%;
+}
+.pg6{
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+    padding:2%;
+}
+.pg7 img{
+    padding:10% 5% 5% 5%;
+}
+.pg7 .pg8 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2%;
+}.pg7{
+     background-color:beige;
+ }
+.pg7 .pg9 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2%;
+}
+    .pg7 .pg9 ul li {
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+.pge1 .pge11 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0% 0% 0% 2%;
+}
+.pge1 .pge12{
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+    padding:2%;
+}
