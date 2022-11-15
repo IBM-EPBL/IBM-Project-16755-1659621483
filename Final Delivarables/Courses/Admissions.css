@@ -1,0 +1,73 @@
+.topic{
+    background:rgb(30,20,20);
+    display:flex;
+    color:white;
+}
+.topic img{
+    padding:3% 2% 2% 5%;
+}
+.topic h1{
+    padding:3% 2% 2% 14%;
+    font-family:Calibri;
+}
+    .topic button {
+        position: absolute;
+        top: 77px;
+        left: 90% ;
+        color: white;
+        display: inline-block;
+        text-align: center;
+        background-color: #c2142c;
+        font: 400 20px system-ui;
+        font-family: Calibri;
+        padding: 7px;
+        box-sizing: border-box;
+        border-width: 1px;
+        border-color: white;
+        border-radius: 10%;
+    }
+/*button {
+    color: white;
+    display: inline-block;
+    text-align: center;
+    background-color: #c2142c;
+    font: 400 20px system-ui;
+    font-family: Calibri;
+    padding: 7px;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10%;
+}*/
+.ad1 {
+    font-size: 80px;
+    text-align: center;
+    padding: 3%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ad2 {
+    font-size: 25px;
+    color: white;
+    padding: 5%;
+    background-color: rgb(30, 20, 20);
+    font-family: 'Times New Roman', Times, serif;
+}
+    .ad2 ul li{
+        font-family: 'Times New Roman', Times, serif;
+    }
+.car1{
+    padding: 3% 15% 5% 15%;
+}
+.ad4 {
+    background: rgb(30,20,20);
+    display: flex;
+    color: white;
+    padding:1%;
+}
+    .ad4 div {
+        box-sizing: border-box;
+        border-width: 2px;
+        border-color: white;
+        padding: 3% 5% 3% 19%;
+    }

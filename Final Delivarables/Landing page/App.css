@@ -1,0 +1,64 @@
+.c1 img{
+    margin-left:42%;
+}
+.c1{
+    background-image:url(./img2.jpg);
+    background-size:cover;
+}
+    .c1 h1 {
+        text-align: center;
+        font-size: 300px;
+        color: aliceblue; 
+        font-family: 'Lato', sans-serif;
+        padding:7%;
+    }
+    .car{
+        padding:3% 15% 15% 15%;
+    }
+    .t1{
+        font-size:80px;
+        text-align:center;
+        padding:3%;
+        font-family:'Times New Roman', Times, serif;
+    }
+    .campustour{
+        padding:3%;
+    }
+    .t2{
+    font-size: 25px;
+    color: white;
+    padding: 5%;
+    background-color: rgb(30, 20, 20);
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.Admissions,
+.ebooks,
+.courses {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+.si {
+    background: rgb(30, 20, 20);
+}
+
+.singeCol {
+    max-width: 750px;
+    margin: 0 auto;
+}
+ .social-media-icons-white a{
+     font-size:2rem;
+     padding:3%;
+ }
