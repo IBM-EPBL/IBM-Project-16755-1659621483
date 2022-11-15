@@ -1,0 +1,36 @@
+.cs {
+    display: flex;
+    justify-content:space-evenly;
+    padding:0% 0% 5% 0%;
+}
+    .cs .cs1 h5, .cs .cs2 h5, .cs .cs3 h5{
+        font-family: 'Times New Roman', Times, serif;
+        padding: 7% 0% 5% 0%;
+    }
+    .cs .cs1 button, .cs .cs2 button, .cs .cs3 button {
+        color: white;
+        display: inline-block;
+        text-align: center;
+        background-color: #c2142c;
+        font: 400 20px system-ui;
+        font-family: Calibri;
+        padding: 7px;
+        box-sizing: border-box;
+        border-width: 1px;
+        border-color: white;
+        border-radius: 10%;
+    }
+   .cs .cs1{
+        padding: 3% 1% 2% 5%;
+    }
+
+    .cs .cs2 {
+        padding: 3% 1% 2% 5%;
+    }
+
+    .cs .cs3 {
+        padding: 3% 1% 2% 5%;
+    }
+    .cs .cs3 {
+        padding: 3% 1% 2% 5%;
+    }
